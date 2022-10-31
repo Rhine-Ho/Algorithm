@@ -1,6 +1,6 @@
 
-
-
+＃A whole bunch of training date.
+which comes in the form of a bunch of different images of handwritten digits along with labels for what they're supposed to end.
 
 1.輸入：一個演算法必須有零個或以上輸入量。
 
